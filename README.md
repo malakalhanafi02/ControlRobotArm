@@ -1,4 +1,4 @@
-# 🦾 Controlling the Robot Arm by joint_state_publisher 🦾
+# 🦾 Controlling the Robot Arm by `joint_state_publisher` package 🦾
 
 https://github.com/user-attachments/assets/5f0fbf12-9d86-47d3-bae5-8f82b88bdf43
 
